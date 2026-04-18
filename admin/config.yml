@@ -20,8 +20,8 @@ collections:
     folder: "posts"
     create: true
     slug: "{{slug}}"
-    extension: "md"
-    format: "frontmatter"
+    extension: "json"
+    format: "json"
     summary: "{{title_hu}} — {{date}}"
     fields:
       - { label: "🇭🇺 Cím (magyar)", name: "title_hu", widget: "string" }
