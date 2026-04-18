@@ -1,12 +1,7 @@
 # THE VOID - Decap CMS Configuration
-# This controls what you can edit in the admin panel at /admin
-
 backend:
-  name: github
-  repo: Laca228/thevoide-website
+  name: git-gateway
   branch: main
-  base_url: https://api.netlify.com
-  auth_endpoint: auth
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
