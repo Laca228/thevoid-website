@@ -5,7 +5,7 @@ backend:
   name: github
   repo: Laca228/thevoide-website
   branch: main
-  base_url: base_url: https://api.netlify.com
+  base_url: https://api.netlify.com
   auth_endpoint: auth
 
 media_folder: "images/uploads"
