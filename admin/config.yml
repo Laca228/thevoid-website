@@ -1,7 +1,7 @@
 # THE VOID - Sveltia CMS Configuration
 backend:
   name: github
-  repo: Laca228/thevoide-website
+  repo: Laca228/thevoid-website
   branch: main
 
 media_folder: "images/uploads"
