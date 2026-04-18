@@ -3,8 +3,6 @@ backend:
   name: github
   repo: Laca228/thevoide-website
   branch: main
-  auth_type: pkce
-  app_id: Ov23liraG5U2T06pxDyM
 
 media_folder: "images/uploads"
 public_folder: "/images/uploads"
