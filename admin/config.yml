@@ -1,6 +1,7 @@
-# THE VOID - Decap CMS Configuration
+# THE VOID - Sveltia CMS Configuration
 backend:
-  name: git-gateway
+  name: github
+  repo: Laca228/thevoide-website
   branch: main
 
 media_folder: "images/uploads"
